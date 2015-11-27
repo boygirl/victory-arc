@@ -1,0 +1,19 @@
+{
+  "name": "victory-arc",
+  "version": "0.0.1",
+  "description": "arc component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-arc.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-arc/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-arc",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
